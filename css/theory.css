@@ -1,0 +1,30 @@
+p{
+  text-align: justify;
+  padding: 3%;
+}
+
+h1{
+  margin: 5% auto 3%;
+}
+
+.final_formula{
+  border-style: solid;
+  padding: 1rem;
+}
+
+code{
+  font-size: 1.25rem;
+}
+.nav-bar{
+  background-color: red;
+}
+.font-poppins{
+font-family: 'Poppins', sans-serif;
+}
+.bg-gray{
+  background-color: rgb(240, 240, 240);
+}
+img{
+  object-fit: cover;
+  max-width: 100%;
+}
