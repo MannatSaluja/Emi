@@ -1,2 +1,2 @@
 # emi_sim
-emi group simulator
+emi simulator
